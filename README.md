@@ -1,6 +1,4 @@
-# FaceDetection
-Face Detection using Webcam based on OpenCv
-# Face Recognition Using Webcam
+# Face Detection Using Webcam
 
 This Python script uses OpenCV and the face_recognition library to perform real-time face recognition using a webcam. It detects faces in the webcam feed, compares them with a known face stored as an image file, and labels them accordingly.
 
